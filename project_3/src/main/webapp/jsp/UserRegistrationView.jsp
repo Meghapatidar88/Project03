@@ -76,7 +76,7 @@ i.css {
 						<div class="card-body">
 
 							<h3 class="text-center default-text text-primary pb-2">User
-								Registration meghas</h3>
+								Registration</h3>
 							<!--Body-->
 							<div>
 
